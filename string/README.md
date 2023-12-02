@@ -3,4 +3,4 @@
 ## 문제 테이블
 |ID|문제 번호|문제 제목|
 |---|------|---|
-|00|[1000](https://www.acmicpc.net/problem/9012)|괄호|
+|00|[9012](https://www.acmicpc.net/problem/9012)|괄호|
