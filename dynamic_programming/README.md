@@ -20,3 +20,5 @@
 |14|[2579](https://www.acmicpc.net/problem/2579)|계단 오르기|
 |15|[1699](https://www.acmicpc.net/problem/1699)|제곱수의 합|
 |16|[2133](https://www.acmicpc.net/problem/2133)|타일 채우기|
+|17|[9461](https://www.acmicpc.net/problem/9461)|파도반 수열|
+|18|[2225](https://www.acmicpc.net/problem/2225)|합분해|
