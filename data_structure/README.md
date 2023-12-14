@@ -13,3 +13,5 @@
 |07|[11004](https://www.acmicpc.net/problem/11004)|K번째 수|
 |08|[10828](https://www.acmicpc.net/problem/10828)|스택|
 |09|[1158](https://www.acmicpc.net/problem/1158)|요세푸스 문제|
+|10|[10799](https://www.acmicpc.net/problem/10799)|쇠막대기|
+|11|[10845](https://www.acmicpc.net/problem/10845)|큐|
