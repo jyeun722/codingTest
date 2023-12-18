@@ -8,3 +8,5 @@
 |02|[1850](https://www.acmicpc.net/problem/1850)|최대공약수|
 |03|[1934](https://www.acmicpc.net/problem/1934)|최소공배수|
 |04|[9613](https://www.acmicpc.net/problem/9613)|GCD 합|
+|05|[2745](https://www.acmicpc.net/problem/2745)|진법 변환|
+|06|[11005](https://www.acmicpc.net/problem/11005)|진법 변환 2|
