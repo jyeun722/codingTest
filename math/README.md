@@ -10,3 +10,5 @@
 |04|[9613](https://www.acmicpc.net/problem/9613)|GCD 합|
 |05|[2745](https://www.acmicpc.net/problem/2745)|진법 변환|
 |06|[11005](https://www.acmicpc.net/problem/11005)|진법 변환 2|
+|07|[1373](https://www.acmicpc.net/problem/1373)|2진수 8진수|
+|08|[1212](https://www.acmicpc.net/problem/1212)|8진수 2진수|
