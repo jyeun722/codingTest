@@ -17,3 +17,5 @@
 |11|[1978](https://www.acmicpc.net/problem/1978)|소수 찾기|
 |12|[1929](https://www.acmicpc.net/problem/1929)|소수 구하기|
 |13|[6588](https://www.acmicpc.net/problem/6588)|골드바흐의 추측|
+|14|[11653](https://www.acmicpc.net/problem/11653)|소인수분해|
+|15|[10872](https://www.acmicpc.net/problem/10872)|팩토리얼|
