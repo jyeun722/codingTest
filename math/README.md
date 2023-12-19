@@ -14,3 +14,5 @@
 |08|[1212](https://www.acmicpc.net/problem/1212)|8진수 2진수|
 |09|[11576](https://www.acmicpc.net/problem/11576)|Base Conversion|
 |10|[2089](https://www.acmicpc.net/problem/2089)|-2진수|
+|11|[1978](https://www.acmicpc.net/problem/1978)|소수 찾기|
+|12|[1929](https://www.acmicpc.net/problem/1929)|소수 구하기|
