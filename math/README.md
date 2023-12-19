@@ -16,3 +16,4 @@
 |10|[2089](https://www.acmicpc.net/problem/2089)|-2진수|
 |11|[1978](https://www.acmicpc.net/problem/1978)|소수 찾기|
 |12|[1929](https://www.acmicpc.net/problem/1929)|소수 구하기|
+|13|[6588](https://www.acmicpc.net/problem/6588)|골드바흐의 추측|
