@@ -12,3 +12,5 @@
 |06|[11005](https://www.acmicpc.net/problem/11005)|진법 변환 2|
 |07|[1373](https://www.acmicpc.net/problem/1373)|2진수 8진수|
 |08|[1212](https://www.acmicpc.net/problem/1212)|8진수 2진수|
+|09|[11576](https://www.acmicpc.net/problem/11576)|Base Conversion|
+|10|[2089](https://www.acmicpc.net/problem/2089)|-2진수|
