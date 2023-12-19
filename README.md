@@ -17,3 +17,4 @@
 |11|이분 탐색/삼분 탐색 Binary Search|링크|
 |12|분할정복 Divide and conquer|링크|
 |13|탐욕법 Greedy|[링크](https://github.com/jyeun722/codingTest/tree/main/greedy)|
+|14|수학 Math|[링크](https://github.com/jyeun722/codingTest/tree/main/math)|
