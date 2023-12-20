@@ -19,3 +19,5 @@
 |13|[6588](https://www.acmicpc.net/problem/6588)|골드바흐의 추측|
 |14|[11653](https://www.acmicpc.net/problem/11653)|소인수분해|
 |15|[10872](https://www.acmicpc.net/problem/10872)|팩토리얼|
+|16|[1676](https://www.acmicpc.net/problem/1676)|팩토리얼 0의 개수|
+|17|[2004](https://www.acmicpc.net/problem/2004)|조합 0의 개수|
