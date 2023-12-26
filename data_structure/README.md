@@ -18,3 +18,4 @@
 |12|[10866](https://www.acmicpc.net/problem/10866)|덱|
 |13|[12836](https://www.acmicpc.net/problem/12836)|가계부 (Easy)|
 |14|[2042](https://www.acmicpc.net/problem/2042)|구간 합 구하기|
+|15|[1168](https://www.acmicpc.net/problem/1168)|요세푸스 문제 2|
