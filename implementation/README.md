@@ -7,3 +7,4 @@
 |01|[10424](https://www.acmicpc.net/problem/10424)|알고리즘 기말고사|
 |02|[2875](https://www.acmicpc.net/problem/2875)|대회 or 인턴|
 |03|[10610](https://www.acmicpc.net/problem/10610)|30|
+|04|[1783](https://www.acmicpc.net/problem/1783)|병든 나이트|
