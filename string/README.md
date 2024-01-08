@@ -11,3 +11,5 @@
 |05|[10824](https://www.acmicpc.net/problem/10824)|네 수|
 |06|[11656](https://www.acmicpc.net/problem/11656)|접미사 배열|
 |07|[1406](https://www.acmicpc.net/problem/1406)|에디터|
+|08|[1316](https://www.acmicpc.net/problem/1316)|그룹 단어 체커|
+
