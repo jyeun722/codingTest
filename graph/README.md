@@ -9,3 +9,7 @@
 |03|[10451](https://www.acmicpc.net/problem/10451)|순열 사이클|
 |04|[2667](https://www.acmicpc.net/problem/2667)|단지번호붙이기|
 |05|[4963](https://www.acmicpc.net/problem/4963)|섬의 개수|
+|06|[17472](https://www.acmicpc.net/problem/17472)|다리 만들기2|
+|07|[17135](https://www.acmicpc.net/problem/17135)|캐슬 디펜스|
+|08|[17471](https://www.acmicpc.net/problem/17471)|게리맨더링|
+
